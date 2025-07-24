@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-apurva/static/css/main.575d9310.css",
-    "main.js": "/portfolio-apurva/static/js/main.2e87f84c.js",
-    "static/media/bg.jpg": "/portfolio-apurva/static/media/bg.f11b09e5288a70764d00.jpg",
-    "index.html": "/portfolio-apurva/index.html",
-    "main.575d9310.css.map": "/portfolio-apurva/static/css/main.575d9310.css.map",
-    "main.2e87f84c.js.map": "/portfolio-apurva/static/js/main.2e87f84c.js.map"
+    "main.css": "/Portfolio_Apurva/static/css/main.ee13bc1f.css",
+    "main.js": "/Portfolio_Apurva/static/js/main.2e87f84c.js",
+    "static/media/bg.jpg": "/Portfolio_Apurva/static/media/bg.f11b09e5288a70764d00.jpg",
+    "index.html": "/Portfolio_Apurva/index.html",
+    "main.ee13bc1f.css.map": "/Portfolio_Apurva/static/css/main.ee13bc1f.css.map",
+    "main.2e87f84c.js.map": "/Portfolio_Apurva/static/js/main.2e87f84c.js.map"
   },
   "entrypoints": [
-    "static/css/main.575d9310.css",
+    "static/css/main.ee13bc1f.css",
     "static/js/main.2e87f84c.js"
   ]
 }
